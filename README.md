@@ -17,6 +17,7 @@ If a check fails the file is deleted. Nothing in this repository is ever run as 
 | `sounds/` | 178 hit / kill sounds as **mono** Ogg Vorbis (Quake Live refuses stereo sounds). For DIDY's **Hit sound** and **Kill sound**. |
 | `textures/` | 35 wall / floor / grid textures, 512×512 JPG, for the Textures tab's **My picture**. |
 | `crosshairs/` | 58 crosshair pictures (PNG with transparency) for **Animated crosshair**. A few are marked "off-centre" in the manifest: their shape doesn't sit on the aim point. |
+| `crosshairs/big/` | 9 large KovaaK's crosshair pictures (anime pictures and other full-screen overlays, PNG with transparency, up to 2536×1440), marked `"overlay": true`. DIDY fits them centred into the crosshair square without stretching; they also work as pictures elsewhere (sky, textures). |
 | `CREDITS.md` | Where every file came from, and its licence (or lack of one). |
 | `manifest.json` | Every file with its size, SHA-256, kind and label. |
 

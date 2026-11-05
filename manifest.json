@@ -2876,6 +2876,28 @@
    "optional": true
   },
   {
+   "path": "crosshairs/big/kv_animegirl.png",
+   "sha256": "95e9ff0a7a4247ef1155ac0c6d2fdc2765d1ce9846260ae522f1e83356cb40ff",
+   "bytes": 237916,
+   "kind": "crosshair",
+   "label": "animegirl (large picture, 1920x1080)",
+   "release": false,
+   "url": "https://raw.githubusercontent.com/ophanimm/didy-assets/main/crosshairs/big/kv_animegirl.png",
+   "optional": true,
+   "overlay": true
+  },
+  {
+   "path": "crosshairs/big/kv_animegirlblue.png",
+   "sha256": "c9cc6627ceff5940387e5679f61943a38df8824b223affba71194d10a870019a",
+   "bytes": 496585,
+   "kind": "crosshair",
+   "label": "animegirlblue (large picture, 2536x1440)",
+   "release": false,
+   "url": "https://raw.githubusercontent.com/ophanimm/didy-assets/main/crosshairs/big/kv_animegirlblue.png",
+   "optional": true,
+   "overlay": true
+  },
+  {
    "path": "crosshairs/kv_ascended.png",
    "sha256": "cbdc1beba77bd1ab6a63e4b5c0db49a85df6193e6bc07a7eab446502d3b76939",
    "bytes": 285,
@@ -2944,6 +2966,17 @@
    "release": false,
    "url": "https://raw.githubusercontent.com/ophanimm/didy-assets/main/crosshairs/kv_circlewithoutline.png",
    "optional": true
+  },
+  {
+   "path": "crosshairs/big/kv_cw_glowdot.png",
+   "sha256": "29b9a615998f1e74c6e18b84aae0be2e91fbf0377c0e6994ff45c48e8ab1a8e3",
+   "bytes": 9436,
+   "kind": "crosshair",
+   "label": "cw glowdot (large picture, 1012x454)",
+   "release": false,
+   "url": "https://raw.githubusercontent.com/ophanimm/didy-assets/main/crosshairs/big/kv_cw_glowdot.png",
+   "optional": true,
+   "overlay": true
   },
   {
    "path": "crosshairs/kv_default.png",
@@ -3229,6 +3262,17 @@
    "optional": true
   },
   {
+   "path": "crosshairs/big/kv_paytrolah_anime.png",
+   "sha256": "f1ed0badc50eef80e79ccd9385f4244ac9f4209706037011538fde233611fd71",
+   "bytes": 66704,
+   "kind": "crosshair",
+   "label": "paytrolah anime (large picture, 1920x1080)",
+   "release": false,
+   "url": "https://raw.githubusercontent.com/ophanimm/didy-assets/main/crosshairs/big/kv_paytrolah_anime.png",
+   "optional": true,
+   "overlay": true
+  },
+  {
    "path": "crosshairs/kv_plus.png",
    "sha256": "2b3ae5dbdec579bcda0cd52257eaa53e801158a39888a0c2c785c86f78b148d3",
    "bytes": 146,
@@ -3297,6 +3341,50 @@
    "release": false,
    "url": "https://raw.githubusercontent.com/ophanimm/didy-assets/main/crosshairs/kv_rounddot1.png",
    "optional": true
+  },
+  {
+   "path": "crosshairs/big/kv_sadgeplus.png",
+   "sha256": "14683c1c7a3560c2930f1e575cbc9776c89ed066be5c7abb6c65815ea182ac33",
+   "bytes": 52893,
+   "kind": "crosshair",
+   "label": "sadgeplus (large picture, 1918x1080)",
+   "release": false,
+   "url": "https://raw.githubusercontent.com/ophanimm/didy-assets/main/crosshairs/big/kv_sadgeplus.png",
+   "optional": true,
+   "overlay": true
+  },
+  {
+   "path": "crosshairs/big/kv_sagaichi.png",
+   "sha256": "915d7633fb035f4df9408bef9f5b52150b90244c19193ff8238d16e46e457554",
+   "bytes": 50017,
+   "kind": "crosshair",
+   "label": "sagaichi (large picture, 1890x1080)",
+   "release": false,
+   "url": "https://raw.githubusercontent.com/ophanimm/didy-assets/main/crosshairs/big/kv_sagaichi.png",
+   "optional": true,
+   "overlay": true
+  },
+  {
+   "path": "crosshairs/big/kv_sharable_no_lewd.png",
+   "sha256": "cdc11b425ab2367a08024ad536fdff9ddbc8d6a62554e19a6982d1b410b50b37",
+   "bytes": 39700,
+   "kind": "crosshair",
+   "label": "sharable no lewd (large picture, 1918x1060)",
+   "release": false,
+   "url": "https://raw.githubusercontent.com/ophanimm/didy-assets/main/crosshairs/big/kv_sharable_no_lewd.png",
+   "optional": true,
+   "overlay": true
+  },
+  {
+   "path": "crosshairs/big/kv_soldier2.png",
+   "sha256": "d104b5d1312370db280f2dc71b2ac10dae614c93642ae63b58712f2dd75723a0",
+   "bytes": 349486,
+   "kind": "crosshair",
+   "label": "soldier2 (large picture, 1850x1080)",
+   "release": false,
+   "url": "https://raw.githubusercontent.com/ophanimm/didy-assets/main/crosshairs/big/kv_soldier2.png",
+   "optional": true,
+   "overlay": true
   },
   {
    "path": "crosshairs/kv_squarehair.png",
@@ -3368,6 +3456,17 @@
    "release": false,
    "url": "https://raw.githubusercontent.com/ophanimm/didy-assets/main/crosshairs/kv_zeeqplus2.png",
    "optional": true
+  },
+  {
+   "path": "crosshairs/big/kv_zerotwo.png",
+   "sha256": "c805207a8fbe78ee76bd28fee30d298378aa7b7af5d5ff67320d27c4253aed97",
+   "bytes": 116656,
+   "kind": "crosshair",
+   "label": "zerotwo (large picture, 1878x1080)",
+   "release": false,
+   "url": "https://raw.githubusercontent.com/ophanimm/didy-assets/main/crosshairs/big/kv_zerotwo.png",
+   "optional": true,
+   "overlay": true
   }
  ]
 }

@@ -29,11 +29,11 @@ KovaaK's (FPS Aim Trainer) is a paid game by The Meta. These files were read fro
 |---|---|
 | `skies/kv_01` … `kv_10`, `kv_aurora_01`, `kv_aurora_02` | its .pak, `Content/GoodSky/SkyboxFlowPack_Bundle` sky images, unwrapped to 2:1 panoramas |
 | `textures/kv_*` | its .pak, the map editor's grid textures and wall / floor albedos, 512×512 |
-| `crosshairs/kv_*` | its `crosshairs` folder (many are community-made crosshairs bundled with the game) |
+| `crosshairs/kv_*`, `crosshairs/big/kv_*` | its `crosshairs` folder (many are community-made crosshairs bundled with the game; `big/` holds its 9 full-screen overlay pictures, anime art and the like, by unknown community authors) |
 | `sounds/kv_*` | its `sounds` folder (hit, kill, bell, tick and pop sounds, community sounds bundled with the game, and a few Quake 3 sounds by id Software: `kv_q3*`) |
 
-Nine KovaaK's crosshairs were left out: they are full-screen overlays (1012×454 up to 2536×1440), not crosshair
-squares.
+The nine full-screen ones (1012×454 up to 2536×1440) are in `crosshairs/big/`, unchanged (owner 2026-11-05: "nah put
+the anime pictures in there too").
 
 ## Hit sounds from other games (`sounds/`): NOT licensed for redistribution
 
